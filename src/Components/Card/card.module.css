@@ -1,0 +1,27 @@
+.card .img {
+    width: 100%;
+    height: 200px;
+    background-color: #ccc;
+    position: relative;
+}
+
+.card .title {
+    margin-top: 8px;
+
+}
+
+.card .subtitle {
+    color: #666;
+    margin-bottom: 8px;
+}
+
+.card .action {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card span {
+    font-size: 14px;
+    color: #a5a5a5;
+}
