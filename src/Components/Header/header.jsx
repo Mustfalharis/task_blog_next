@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { Container } from "../container/container";
+import  Container  from "../container/container";
 import styles from "./header.module.css";
 import Link from "next/link";
 
